@@ -8,7 +8,7 @@
                 <div class="card-header">Daftar Mahasiswa</div>
 
                 <div class="card-body">
-                    <!-- Tombol Tambah Data -->
+                    <!-- Tombol Tambah Data 1234-->
                     <div class="mb-3">
                         <a href="{{ route('students.create') }}" class="btn btn-sm btn-success">
                             <i class="fas fa-plus"></i> Tambah Data
