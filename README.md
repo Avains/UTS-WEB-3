@@ -13,9 +13,6 @@ Buatlah Aplikasi Untuk Management data Mahasiswa dengan menggunakan Laravel sepe
 # Hapus Data
 ![Hapus Data](https://github.com/user-attachments/assets/f2598ece-7f0a-464b-9ef9-422f3cdcf62e)
 
-# Download
-[Tugas UTS](https://github.com/Avains/UTS-WEB3/releases/tag/uts_web3-v1)
-
 # Install
 Terminal
 ```python
