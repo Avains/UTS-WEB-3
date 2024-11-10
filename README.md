@@ -11,7 +11,7 @@ Buatlah Aplikasi Untuk Management data Mahasiswa dengan menggunakan Laravel sepe
 ![Tambah Data](https://github.com/user-attachments/assets/ffd4c56a-51fb-401f-b09b-14b6d22880f2)
 
 # Edit Data
-![Edit Data](https://github.com/Avains/UTS-WEB-3/pic/Edit_Data.gif)
+![Edit Data](pic/Edit_Data.gif)
 
 # Hapus Data
 ![Hapus Data](https://github.com/user-attachments/assets/f2598ece-7f0a-464b-9ef9-422f3cdcf62e)
